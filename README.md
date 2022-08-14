@@ -59,5 +59,5 @@
           
 </div>
 
- ![Snake animation](https://github.com/bluekeysatellite/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation]< "https://github.com/bluekeysatellite/blob/output/github-contribution-grid-snake.svg"/>
  
